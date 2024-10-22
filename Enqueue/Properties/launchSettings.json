@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Enqueue": {
+      "commandName": "Project",
+      "commandLineArgs": "\"hello\" -n 1"
+    }
+  }
+}
